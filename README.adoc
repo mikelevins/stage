@@ -1,0 +1,9 @@
+# stage
+:toc:
+
+A dynamic UI-construction environment.
+
+Stage is an experiment in programming by interactive
+construction. This version of it builds on Nicholas Hafner's
+https://github.com/Shinmera/qtools[QTools].
+
