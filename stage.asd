@@ -11,6 +11,7 @@
   :components ((:module "src"
                         :serial t
                         :components ((:file "package")
+                                     (:file "repl-widget")
                                      (:file "stage")))))
 
 
